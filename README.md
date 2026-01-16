@@ -32,15 +32,14 @@ _Welcome to "Communicate using Markdown"! :wave:_
 - Sharing snippets of text in [Gists](https://docs.github.com/github/writing-on-github/editing-and-sharing-content-with-gists/creating-gists)
 
 **What is a _header_?** A header is a larger bit of text at the beginning of a section. There are six sizes.
+Added headers for Markdown practice
+# My First Header
+## My Second Header
+### A Smaller Header
+#### Even Smaller
+##### Tiny Header
+###### Smallest Header
 
-### Example
-
-```md
-# This is an `<h1>` header, which is the largest
-
-## This is an `<h2>` header
-
-###### This is an `<h6>` header, which is the smallest
 ```
 
 #### How it looks
